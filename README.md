@@ -1,0 +1,2 @@
+# rapidjson-fuzzers
+libfuzzer harness
